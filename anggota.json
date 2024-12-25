@@ -1,0 +1,5 @@
+{"_id":{"$oid":"67641c84066e2fb295fe6913"},"Nama":"Ryaval Ryadi","Jenis_Kelamin":"Laki-laki","Alamat":"Cillenggang","Status":"Aktiv"}
+{"_id":{"$oid":"67641cb7066e2fb295fe6914"},"Nama":"Gulam Rmadhan","Jenis_Kelamin":"Laki-laki","Alamat":"Serpong","Status":"Aktiv"}
+{"_id":{"$oid":"67641cd3066e2fb295fe6915"},"Nama":"Muhammad Rafi Kamal","Jenis_Kelamin":"Laki-laki","Alamat":"Pamulang","Status":"Aktiv"}
+{"_id":{"$oid":"67641cea066e2fb295fe6916"},"Nama":"Gilang Ramadhan","Jenis_Kelamin":"Laki-laki","Alamat":"Cirendu","Status":"Aktiv"}
+{"_id":{"$oid":"67641d05066e2fb295fe6917"},"Nama":"Kohandika","Jenis_Kelamin":"Laki-laki","Alamat":"Pondok Cabe","Status":"Aktiv"}

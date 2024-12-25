@@ -1,0 +1,3 @@
+{"_id":{"$oid":"67642556066e2fb295fe6928"},"Nama_buku":"99 Pesan Nabi","ID_Anggota":"123865213823","Tanggal_Peminjaman":"12 Maret 2024","Batas_peminjaman":"7 Hari"}
+{"_id":{"$oid":"6764257c066e2fb295fe6929"},"Nama_buku":"Dilan","ID_Anggota":"123865213833","Tanggal_Peminjaman":"9 Agustus 2024","Batas_peminjaman":"7 Hari"}
+{"_id":{"$oid":"676425a9066e2fb295fe692a"},"Nama_buku":"Sijuki Seri Keroyokan: Invasi Dimulai","ID_Anggota":"123865213876","Tanggal_Peminjaman":"4 Oktober 2024","Batas_peminjaman":"7 Hari"}
